@@ -33,7 +33,7 @@ To run this project, you need to have Node.js and MongoDB installed on your syst
 
 ## UChat
 
-![image] (./Images/img1.png)
-![image] (./Images/img2.png)
-![image] (./Images/img3.png)
-![image] (./Images/img4.png)
+![image](./Images/img1.png)
+![image](./Images/img2.png)
+![image](./Images/img3.png)
+![image](./Images/img4.png)
